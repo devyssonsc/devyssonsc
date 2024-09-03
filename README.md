@@ -1,7 +1,7 @@
 ## Oláaa! Meu nome é Devysson Cardoso
 <div>
   🌐Sou desenvolvedor web<br>
-  📚Atualmente estudando angular e spring boot
+  📚Atualmente utilizando angular e spring boot
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="angular" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
