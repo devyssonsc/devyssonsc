@@ -5,12 +5,13 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="angular" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
-  <img align="center" alt="spring" height="35" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
+  <img align="center" alt="spring" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
@@ -23,4 +24,7 @@
   
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devyssonsc&layout=compact&langs-count=16&theme=dracula)
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyssonsc&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
